@@ -45,6 +45,7 @@ p {
   display: block;
   padding: 20px;
 }
+
 #navbar ul li a:hover,
 #navbar ul li a.current {
   background-color: white;

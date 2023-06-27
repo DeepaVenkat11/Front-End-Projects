@@ -1,0 +1,53 @@
+*{
+    margin:0;
+    background-color: rgb(76, 106, 76);
+}
+body .first{
+    border-top:2px;
+    border-color: black;
+
+}
+div img {
+    width: 200px;
+    margin-left:500px;
+    margin-top:100px;
+    border-radius: 50%;
+  }
+.name{
+    color:white;
+    margin-left: 400px;
+}
+p{
+    color:white;
+    margin-left: 400px;
+    margin-bottom:50px;
+}
+.job h2{
+    color:rgb(24, 127, 245);
+    margin-left: 400px;
+    margin-right:450px;
+    border-style:solid;
+    border-radius: 40px;
+    padding-left: 100px;
+    margin-top:40px;
+}
+h1,p,h2{
+    margin-bottom:10px ;
+    margin-left:400px;
+}
+.job a{
+    text-decoration: none;
+}
+ul{
+    margin:50px;
+}
+ul,li{
+    margin-bottom: 30px;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+h1{
+    margin-left:700px;
+}
